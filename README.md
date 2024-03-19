@@ -1,1 +1,1 @@
-Dashboard Template Using HTML-CSS Check Demo ==> https://amrkamalfoad.github.io/Dashboard/
+Responsive Dashboard (HTML-CSS) Template  Check Demo ==> https://amrkamalfoad.github.io/Dashboard/
